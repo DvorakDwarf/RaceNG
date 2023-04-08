@@ -5,7 +5,7 @@ I even published to [crates.io](https://crates.io/crates/RaceNG), which was supr
 
 How 2 use
 -------------
-1. `cargo add RaceNG` (Yes I uploaded it as a crate)
+1. `cargo add RaceNG`
 2. `let result = RaceNG::race(x, y)`
 3. PROFIT
 
