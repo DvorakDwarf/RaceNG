@@ -1,10 +1,10 @@
 [package]
 name = "RaceNG"
-version = "1.0.0"
+version = "1.0.1"
 edition = "2021"
 authors = ["HistidineDwarf <https://github.com/DvorakDwarf>"]
 license = "MIT"
-description = "Revolutionary, innovate, groundbreaking random number generator using race conditions"
+description = "Revolutionary, innovative, groundbreaking random number generator using race conditions"
 repository = "https://github.com/DvorakDwarf/RaceNG/tree/master"
 readme = "README.md"
 
