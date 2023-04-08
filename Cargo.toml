@@ -4,7 +4,9 @@ version = "1.0.0"
 edition = "2021"
 authors = ["HistidineDwarf <https://github.com/DvorakDwarf>"]
 license = "MIT"
-description = "Revolutionary, innovate, groundbreaking random number generator using race conditions to simulate a coin flip"
+description = "Revolutionary, innovate, groundbreaking random number generator using race conditions"
+repository = "https://github.com/DvorakDwarf/RaceNG/tree/master"
+readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
