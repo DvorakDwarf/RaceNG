@@ -1,6 +1,8 @@
 # RaceNG
 Revolutionary, innovative, groundbreaking random number generator using race conditions written in Rust. I wrote this in like an hour because I thought it would be funny (it was). I should not need to tell you this is not a reliable source of RNG you should rely on. If you do end up using it for smthn, please DM me on discord, I want to know. 
 
+I even published to [crates.io](https://crates.io/crates/RaceNG), which was suprisinly easy
+
 How 2 use
 -------------
 1. `cargo add RaceNG` (Yes I uploaded it as a crate)
