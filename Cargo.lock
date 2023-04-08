@@ -4,4 +4,4 @@ version = 3
 
 [[package]]
 name = "RaceNG"
-version = "1.0.1"
+version = "1.0.2"
